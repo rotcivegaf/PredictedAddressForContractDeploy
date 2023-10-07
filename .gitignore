@@ -1,0 +1,14 @@
+# Compiler files
+smart-contracts/cache/
+smart-contracts/out/
+
+# Ignores development broadcast logs
+!/broadcast
+/smart-contracts/broadcast/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+miner/node_modules/
