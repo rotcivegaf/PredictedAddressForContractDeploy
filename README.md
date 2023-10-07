@@ -1,5 +1,23 @@
 # Mina tus direcciones precalculadas para deploy de contratos
 
+## Address contracts
+
+### Arthera
+
+- Create3Factory: [0x165547bE10567d6188DA6De7fd6BdcCd34F80D60](https://explorer-test.arthera.net/address/0x165547bE10567d6188DA6De7fd6BdcCd34F80D60)
+- Create3Market: [`0x0702224dc991BD1adBecAA291188f200319E28bA`](https://explorer-test.arthera.net/address/0x0702224dc991BD1adBecAA291188f200319E28bA)
+
+### Goerli
+
+- Create3Factory: [0x165547bE10567d6188DA6De7fd6BdcCd34F80D60](https://goerli.etherscan.io/address/0x165547be10567d6188da6de7fd6bdccd34f80d60)
+- Create3Market: [`0xc54ae1172a7e671002c3bf73c8d75e54c9d2effe`](https://goerli.etherscan.io/address/0xc54ae1172a7e671002c3bf73c8d75e54c9d2effe)
+
+## Presentacion y video
+
+[https://github.com/rotcivegaf/PredictedAddressForContractDeploy/blob/main/Presentation.pdf](https://github.com/rotcivegaf/PredictedAddressForContractDeploy/blob/main/Presentation.pdf)
+
+[https://www.youtube.com/watch?v=uvDc1N-9Gas](https://www.youtube.com/watch?v=uvDc1N-9Gas)
+
 ## Caracteristicas
 
 - Minado de direcciones con ciertas caracteristicas
