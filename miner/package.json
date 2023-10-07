@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bn.js": "^5.2.1",
+    "ethereumjs-util": "^7.0.9",
+    "hh-mm-ss": "^1.2.0",
+    "ora": "^6.0.1",
+    "yargs": "^17.2.1"
+  }
+}

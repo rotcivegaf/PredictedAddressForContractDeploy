@@ -12,3 +12,4 @@ docs/
 # Dotenv file
 .env
 miner/node_modules/
+/miner/package-lock.json
