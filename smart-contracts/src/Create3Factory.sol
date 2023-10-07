@@ -4,7 +4,7 @@ pragma solidity ^0.8.13;
 import { CREATE3 } from "solmate/utils/CREATE3.sol";
 import { ERC721 } from "solmate/tokens/ERC721.sol";
 import { Owned } from "solmate/auth/Owned.sol";
-import { IUriProvider } from "./IUriProvider.sol";
+import { IUriProvider } from "./interfaces/IUriProvider.sol";
 
 contract Create3Factory is ERC721, Owned {
     event SetTokenUriProvider(IUriProvider _uriProvider);
