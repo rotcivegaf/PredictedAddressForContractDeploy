@@ -7,6 +7,11 @@
 - Create3Factory: [0x165547bE10567d6188DA6De7fd6BdcCd34F80D60](https://explorer-test.arthera.net/address/0x165547bE10567d6188DA6De7fd6BdcCd34F80D60)
 - Create3Market: [`0x0702224dc991BD1adBecAA291188f200319E28bA`](https://explorer-test.arthera.net/address/0x0702224dc991BD1adBecAA291188f200319E28bA)
 
+### Celo
+
+- Create3Factory: [0x165547bE10567d6188DA6De7fd6BdcCd34F80D60](https://explorer.celo.org/alfajores/address/0x165547bE10567d6188DA6De7fd6BdcCd34F80D60/contracts#address-tabs)
+- Create3Market: [`0x4C21515b92F488A02AC44d8FE2878e00E270A42a`](https://explorer.celo.org/alfajores/address/0x4C21515b92F488A02AC44d8FE2878e00E270A42a/contracts#address-tabs)
+
 ### Goerli
 
 - Create3Factory: [0x165547bE10567d6188DA6De7fd6BdcCd34F80D60](https://goerli.etherscan.io/address/0x165547be10567d6188da6de7fd6bdccd34f80d60)
