@@ -16,7 +16,7 @@
 
 [https://github.com/rotcivegaf/PredictedAddressForContractDeploy/blob/main/Presentation.pdf](https://github.com/rotcivegaf/PredictedAddressForContractDeploy/blob/main/Presentation.pdf)
 
-[https://youtu.be/hhe_xmOriWQ](https://youtu.be/hhe_xmOriWQ)
+[https://youtu.be/_f0oKuJt8QM](https://youtu.be/_f0oKuJt8QM)
 
 ## Caracteristicas
 
